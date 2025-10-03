@@ -1,0 +1,42 @@
+body{
+    background: aliceblue;
+
+
+}
+main{
+    background: darkgray;
+    margin: auto;
+    width: 1200px;
+}
+main header{
+    background: bisque;
+    height: 80px;
+    border: 1px darkgray;
+
+}
+main nav {
+    background:darkseagreen ;
+    height: 50px;
+}
+main #content{
+    background: aquamarine;
+    height: 500px;
+    width: auto;
+
+}
+main #left{
+    background: blueviolet;
+    float: left;
+    width: 40%;
+    height: 100%;
+}
+main #right {
+    background: brown;
+    float: right;
+    width: 60%;
+    height: 100%;
+}
+main footer{
+    background: chocolate;
+    height: 80px;
+}
