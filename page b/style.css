@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    font-family: Tahoma, Arial;
+
+}
+a{
+
+}
+p{
+
+}
+.container{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#section_text_2{
+    height: 120px;
+    background:#f3f3f3;
+
+}
+#section_text_2 .alpha{
+    float: left;
+    width: 50%;
+}
+#section_text_2 .alpha img{
+    margin-top: 35px;
+    width: 134px;
+
+}
+#section_text_2 .omega{
+    float: right;
+    width: 50%;
+    padding-top: 27px;
+
+}
+#section_text_2 .omega a{
+    background: #f77825;
+    color: white;
+    padding: 15px 20px;
+    font-weight: bold;
+    border-radius: 3px;
+    text-decoration: none;
+    font-size: 13px;
+
+ }
+#section_header_1{
+
+}
+
+
+
